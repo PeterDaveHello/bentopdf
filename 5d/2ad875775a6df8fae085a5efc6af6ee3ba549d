@@ -1,0 +1,27 @@
+public/locales/zh-TW/common.json
+  s_72f0a66378c528::t_cd875df6eb2d43 8
+  s_72f0a66378c528::t_735bf41b9526c8 323
+  s_72f0a66378c528::t_6e79078f185584 324-325
+  s_72f0a66378c528::t_d40830c736e0a7 252
+  s_72f0a66378c528::t_ab24567eff62d0 154
+  s_72f0a66378c528::t_0a81df58728a55 251
+  s_72f0a66378c528::t_1973fe23d3b35b 253
+public/locales/zh-TW/tools.json
+  s_72f0a66378c528::t_13c9e9ff9cf12b 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "5d2ad875775a6df8fae085a5efc6af6ee3ba549d",
+  "prompts": {},
+  "sessions": {
+    "s_72f0a66378c528": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0a9cbbbd1ffe0AZbX5WAQFRImC",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Ubuntu <peter@jitsi.peterhsu.tw>"
+    }
+  }
+}
