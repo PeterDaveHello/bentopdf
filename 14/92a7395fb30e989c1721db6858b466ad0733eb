@@ -1,0 +1,37 @@
+README.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 9,335,687,809,821
+terms.html
+  s_b8d0ece3d51efc::t_df1162f9c6d9ff 93
+  s_b8d0ece3d51efc::t_adc6e796908cc5 149
+  s_b8d0ece3d51efc::t_f833b976c1f8e9 92,100,178
+  s_b8d0ece3d51efc::t_596e236ffaa8bb 176
+pdf-security.html
+  s_b8d0ece3d51efc::t_adc6e796908cc5 234,238,253-254
+STATIC-HOSTING.md
+  s_b8d0ece3d51efc::t_f833b976c1f8e9 15
+  s_b8d0ece3d51efc::t_adc6e796908cc5 3,9,24,39,53,55
+CONTRIBUTING.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 84
+cloudflare/cors-proxy-worker.js
+  s_b8d0ece3d51efc::t_adc6e796908cc5 215
+chart/README.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 94
+cloudflare/wrangler.toml
+  s_b8d0ece3d51efc::t_adc6e796908cc5 6,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1492a7395fb30e989c1721db6858b466ad0733eb",
+  "prompts": {},
+  "sessions": {
+    "s_b8d0ece3d51efc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f61ff-639f-7141-9b0d-675d6164be41",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
