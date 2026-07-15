@@ -27,7 +27,7 @@ Examine the hidden properties embedded in a PDF file. The tool displays document
 | Section                 | Contents                                                                              |
 | ----------------------- | ------------------------------------------------------------------------------------- |
 | **Document Info**       | Title, Author, Subject, Keywords, Creator, Producer, Creation Date, Modification Date |
-| **XMP Metadata**        | Full XML-based metadata tree with Dublin Core, XAP, PDF, and custom namespaces        |
+| **XMP Metadata**        | Full XML-based metadata tree with Dublin Core, XMP, PDF, and custom namespaces        |
 | **Document Properties** | Page count, PDF version, file size, encryption status                                 |
 
 ## Use Cases
