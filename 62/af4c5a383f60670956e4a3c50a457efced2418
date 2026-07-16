@@ -1,0 +1,87 @@
+src/pages/cbz-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,388,442
+src/pages/csv-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,386,440
+src/pages/wpd-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,394,448
+src/pages/wps-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,393,447
+src/pages/pdf-to-tiff.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,458,512
+src/pages/pdf-to-png.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,400,454
+src/pages/pdf-to-csv.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,353,407
+src/pages/txt-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,546,600
+src/pages/heic-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,384,438
+src/pages/odt-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,387,441
+src/pages/pdf-to-json.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,336,390
+src/pages/pdf-to-svg.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,384,438
+src/pages/pdf-to-jpg.html
+  s_6e39aded613a51::t_bee0c6c3d96942 326,347
+src/pages/vsd-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,394,448
+src/pages/fb2-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,388,442
+src/pages/rtf-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,386,440
+src/pages/webp-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,412,466
+src/pages/compress-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 516
+src/pages/epub-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,389,443
+src/pages/pdf-to-bmp.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,369,423
+src/pages/psd-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,384,438
+src/pages/odg-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,394,448
+src/pages/excel-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 313
+src/pages/pub-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,394,448
+src/pages/json-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,348,402
+src/pages/mobi-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,387,441
+src/pages/svg-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,412,466
+src/pages/tiff-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,405,459
+src/pages/word-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 347
+src/pages/xml-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,383,437
+src/pages/odp-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,396,450
+src/pages/pdf-to-webp.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,400,454
+src/pages/bmp-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,381,435
+src/pages/ods-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,396,450
+src/pages/xps-to-pdf.html
+  s_6e39aded613a51::t_bee0c6c3d96942 10,14,31,35,48,51,62,387,441
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "62af4c5a383f60670956e4a3c50a457efced2418",
+  "prompts": {},
+  "sessions": {
+    "s_6e39aded613a51": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_096e4a2c3ffeD4AwIGZwkdOSLk",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
