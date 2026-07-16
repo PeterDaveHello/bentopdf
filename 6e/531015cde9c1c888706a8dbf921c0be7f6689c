@@ -1,0 +1,478 @@
+src/pages/heic-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,291,298,305,312,319,384,438
+  s_6e39aded613a51::t_6a6be5be7c21ce 290,297,304,311,318
+src/pages/repair-pdf.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,296,303,310,317,324,390,444
+src/pages/mobi-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,387,441
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 293,300,307,314,321
+  s_6e39aded613a51::t_1d6938d088c580 16
+pdf-security.html
+  s_b8d0ece3d51efc::t_adc6e796908cc5 234,238,253-254
+src/pages/svg-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,412,466
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 318,325,332,339,346
+src/pages/edit-attachments.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 286,293,300,307,314
+src/pages/n-up-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 375,382,389,396,403
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,469,523
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/csv-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,386,440
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 292,299,306,313,320
+src/pages/jpg-to-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 318-319,325-326,332-333,339-340,346
+  s_6e39aded613a51::t_0d891fc75b0c2e 347
+src/pages/powerpoint-to-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 308,315,322,329,336
+src/pages/odg-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 300,307,314,321,328
+src/pages/pdf-booklet.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,519,526,533,540,547,613,667
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/pdf-to-markdown.html
+  s_668d14e017b206::t_61572f8f6cc4cc 302,309,316,323,330
+  s_6e39aded613a51::t_6a6be5be7c21ce 16,301,308,315,322,329
+  s_668d14e017b206::t_7a362ac4b82d79 10,34,54,68,395,449
+  s_668d14e017b206::t_b8e350abfcaa5a 14,38,57
+src/pages/page-numbers.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 339,346,353,360,367
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/rasterize-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,332,339,346,353,360,426,480
+  s_668d14e017b206::t_882f5d55f11e33 14,35,51
+docs/tools/view-metadata.md
+  s_c64f55c2041106::t_7bf725eaa8b8fa 30
+src/pages/pdf-to-zip.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,391,445
+  s_6e39aded613a51::t_6a6be5be7c21ce 297,304,311,318,325
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/add-watermark.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 671,678,685,692,699
+src/pages/posterize-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,14,31,35,48,51,62,475,482,489,496,503,570,624
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/js/logic/digital-sign-pdf.ts
+  s_c64f55c2041106::t_8348925e3217df 123
+src/pages/add-blank-page.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 338,345,352,359,366
+src/pages/wps-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,393,447
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 299,306,313,320,327
+index.html
+  s_c64f55c2041106::t_9ec9d9ed42003b 783
+src/pages/pdf-to-docx.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 311
+  s_668d14e017b206::t_7a362ac4b82d79 290,297,304
+  s_668d14e017b206::t_61572f8f6cc4cc 298,312
+  s_668d14e017b206::t_a7ca3c56f3a9ce 291,305
+README.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 9,134,146-170,335,687,809,821
+src/pages/ods-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,396,450
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 302,309,316,323,330
+chart/README.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 94
+src/pages/edit-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 277,284,291
+src/pages/invert-colors.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 279-280,286-287,293-294,300-301,307
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_558bd356d00384 308
+src/pages/word-to-pdf.html
+  s_668d14e017b206::t_a7ca3c56f3a9ce 332
+  s_6e39aded613a51::t_6a6be5be7c21ce 354
+  s_668d14e017b206::t_7a362ac4b82d79 331,340
+  s_668d14e017b206::t_61572f8f6cc4cc 324-325,338,347-348,355
+src/pages/encrypt-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 325,332,339,346,353
+src/pages/add-attachments.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 350,357,364,371,378
+  s_668d14e017b206::t_61572f8f6cc4cc 351,358,365,372,379
+src/pages/fb2-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,388,442
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 294,301,308,315,322
+src/pages/markdown-to-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 16,206,213,220,227,234
+  s_668d14e017b206::t_b8e350abfcaa5a 14,38,57
+  s_668d14e017b206::t_61572f8f6cc4cc 10,34,54,68,207,214,221,228,235,301,355
+public/locales/en/tools.json
+  s_6b715d61079e12::t_ffe686143f4a7c 16
+src/pages/change-permissions.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 406,413,420,427,434
+src/pages/epub-to-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 295,302,309,316,323
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,389,443
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/background-color.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 293,300,307,314,321
+src/pages/extract-attachments.html
+  s_668d14e017b206::t_5f5511c80fade8 14
+  s_6e39aded613a51::t_6a6be5be7c21ce 295,302,309,316,323
+  s_668d14e017b206::t_882f5d55f11e33 38
+src/pages/pdf-to-bmp.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 275,282,289,296,303
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,369,423
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/extract-images.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 304,311,318,325,332
+src/pages/txt-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,546,600
+  s_6e39aded613a51::t_6a6be5be7c21ce 452,459,466,473,480
+  s_6e39aded613a51::t_1d6938d088c580 16
+cloudflare/cors-proxy-worker.js
+  s_b8d0ece3d51efc::t_adc6e796908cc5 215
+src/pages/linearize-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,311,318,325,332,339,406,460
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 312,319,326,333,340
+src/pages/decrypt-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 317,324,331,338,345
+src/pages/cbz-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,388,442
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 294,301,308,315,322
+STATIC-HOSTING.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 3,9,24,39,47,53,55
+  s_b8d0ece3d51efc::t_f833b976c1f8e9 15
+src/pages/table-of-contents.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 338,345,352,359,366
+src/pages/divide-pages.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 332,339,346,353,360
+src/pages/bmp-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 287,294,301,308,315
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,381,435
+src/pages/extract-tables.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 308,315,322,329,336
+src/pages/wpd-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 300,307,314,321,328
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/form-filler.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 307,314,321,328,335
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/flatten-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,315,322,329,336,343,410,464
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/excel-to-pdf.html
+  s_668d14e017b206::t_7a362ac4b82d79 299,306
+  s_668d14e017b206::t_61572f8f6cc4cc 313-314,321,328
+  s_6e39aded613a51::t_6a6be5be7c21ce 320,327
+  s_668d14e017b206::t_a7ca3c56f3a9ce 300,307
+src/pages/tiff-to-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,405,459
+  s_6e39aded613a51::t_6a6be5be7c21ce 311,318,325,332,339
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-pdfa.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 337,344,351,358,365
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,338,345,352,359,366,431,485
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/form-creator.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 614,621,628,635,642
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/pdf-to-svg.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 290,297,304,311,318
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,384,438
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/js/logic/scan-to-pdf.ts
+  s_6e39aded613a51::t_77ef8573584b1a 2
+src/pages/edit-metadata.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 397,404,411,418,425
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/remove-blank-pages.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 324,331,338,345,352
+src/pages/view-metadata.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 284,291,298,305,312
+src/pages/pages-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 301,308,315,322,329
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,395,449
+  s_6e39aded613a51::t_1d6938d088c580 16
+CONTRIBUTING.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 84
+src/pages/psd-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 290,297,304,311,318
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,384,438
+src/pages/json-to-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 254,261,268,275,282
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,255,262,269,276,283,348,402
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-layers.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,446,453,460,467,474,540,594
+src/pages/ocr-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 611,618,625,632,639
+about.html
+  s_c64f55c2041106::t_0938a28561f0b3 148,175,283
+src/js/config/tools.ts
+  s_c64f55c2041106::t_1d56bcf9b575a9 18
+  s_6b715d61079e12::t_3e700365df4a2a 43,540
+src/pages/extract-pages.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 293,300,307,314,321
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/add-stamps.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 272,279,286,293,300
+src/pages/pdf-to-text.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 318,325,332,339,346
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_7a362ac4b82d79 10,31,48,62,412,466
+src/pages/odp-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 302,309,316,323,330
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,396,450
+src/pages/reverse-pages.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 296,303,310,317,324
+src/pages/text-color.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 287,294,301,308,315
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/split-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 530,544,551
+src/pages/remove-annotations.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 288,295,302,309,316
+src/pages/pdf-to-jpg.html
+  s_6e39aded613a51::t_a59436c85d025e 341
+  s_6e39aded613a51::t_6a6be5be7c21ce 333-334,340
+src/pages/pub-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_6e39aded613a51::t_6a6be5be7c21ce 300,307,314,321,328
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/header-footer.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 407-408,414-415,421-422,428-429,435
+  s_6e39aded613a51::t_c8e0beefb29a05 436
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/sanitize-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,387,394,401,408,415,482,536
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/sign-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 307,314,321,328,335
+src/pages/rotate-custom.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 313,320,327,334,341
+src/pages/compare-pdfs.html
+  s_6e39aded613a51::t_4ffd9db19e9569 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 1118,1125,1132,1139,1146
+  s_6e39aded613a51::t_e8562f63be2c00 10,31,48,62,1213,1267
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/js/logic/word-to-pdf.ts
+  s_6e39aded613a51::t_f33fad3748ced6 1
+src/pages/crop-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 10,31,48,62,342,349,356,363,370,436,490
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+terms.html
+  s_b8d0ece3d51efc::t_f833b976c1f8e9 92,100,178
+  s_b8d0ece3d51efc::t_596e236ffaa8bb 176
+  s_b8d0ece3d51efc::t_adc6e796908cc5 149
+  s_b8d0ece3d51efc::t_df1162f9c6d9ff 93
+src/pages/pdf-to-webp.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 306,313,320,327,334
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,400,454
+src/pages/rtf-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 292,299,306,313,320
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,386,440
+src/pages/odt-to-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 293,300,307,314,321
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,387,441
+src/pages/remove-restrictions.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 317,324,331,338,345
+src/pages/xps-to-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 293,300,307,314,321
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,387,441
+src/pages/image-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 317,324,331,338,345
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,318,325,332,339,346,411,465
+src/pages/pdf-to-tiff.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,458,512
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 364,371,378,385,392
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/alternate-merge.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 321,328,335,342,349
+public/CHANGELOG.md
+  s_6e39aded613a51::t_0f3e17055be17f 22
+  s_6e39aded613a51::t_cda9ebb35c7441 30
+src/pages/vsd-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 300,307,314,321,328
+src/pages/pdf-to-json.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,243,250,257,264,271,336,390
+  s_6e39aded613a51::t_6a6be5be7c21ce 242,249,256,263,270
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/webp-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,412,466
+  s_6e39aded613a51::t_6a6be5be7c21ce 318,325,332,339,346
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/bookmark.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 748,755,762,769,776
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/xml-to-pdf.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,383,437
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 289,296,303,310,317
+src/pages/organize-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 317,324,331
+cloudflare/wrangler.toml
+  s_b8d0ece3d51efc::t_adc6e796908cc5 6,45
+src/pages/prepare-pdf-for-ai.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 16,316,323,330,337,344
+  s_668d14e017b206::t_61572f8f6cc4cc 10,34,54,68,413,467
+  s_668d14e017b206::t_5f5511c80fade8 14,38,57
+src/pages/png-to-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 315,322,329,336,343
+src/pages/merge-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 398,405,412,419
+src/pages/pdf-to-csv.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,260,267,274,281,288,353,407
+  s_6e39aded613a51::t_6a6be5be7c21ce 259,266,273,280,287
+  s_6e39aded613a51::t_1d6938d088c580 16
+src/pages/pdf-to-png.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,400,454
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_6e39aded613a51::t_6a6be5be7c21ce 306,313,320,327,334
+src/pages/pdf-to-greyscale.html
+  s_668d14e017b206::t_7a362ac4b82d79 10,34,54,68,371,425
+  s_668d14e017b206::t_b8e350abfcaa5a 14,38,57
+  s_668d14e017b206::t_61572f8f6cc4cc 278,285,292,299,306
+  s_6e39aded613a51::t_6a6be5be7c21ce 16,277,284,291,298,305
+src/pages/combine-single-page.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 370,377,384,391,398
+src/pages/page-dimensions.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 307,314,321,328,335
+faq.html
+  s_c64f55c2041106::t_09b2bd888c3051 279
+src/pages/rotate-pdf.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 310,317,324,331
+src/pages/delete-pages.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 290,297,304,311,318
+src/pages/pdf-multi-tool.html
+  s_668d14e017b206::t_7a362ac4b82d79 10,31
+  s_6e39aded613a51::t_6a6be5be7c21ce 16,51,65,485,539
+  s_668d14e017b206::t_5f5511c80fade8 14,35,54
+src/pages/remove-metadata.html
+  s_6e39aded613a51::t_6a6be5be7c21ce 294,301,308,315,322
+src/pages/fix-page-size.html
+  s_6e39aded613a51::t_1d6938d088c580 16
+  s_6e39aded613a51::t_6a6be5be7c21ce 421,428,435,442,449
+src/pages/compress-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 503,510,516-517
+  s_6e39aded613a51::t_6a6be5be7c21ce 502,509
+src/pages/pdf-to-excel.html
+  s_6e39aded613a51::t_7a2104ae6a5e81 291
+  s_6e39aded613a51::t_6a6be5be7c21ce 262-263,269-270,276-277,283-284,290
+CCLA.md
+  s_668d14e017b206::t_09ad18f2103e33 106,108,110,112,114,116,118,120,129,136,140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6e531015cde9c1c888706a8dbf921c0be7f6689c",
+  "prompts": {},
+  "sessions": {
+    "s_668d14e017b206": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6947-526b-7701-ae74-55af07b63f0f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_6b715d61079e12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f608c-be2b-7fa1-a5e8-07042adf72aa",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_6e39aded613a51": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_096e4a2c3ffeD4AwIGZwkdOSLk",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_b8d0ece3d51efc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f61ff-639f-7141-9b0d-675d6164be41",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_c64f55c2041106": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f609b-e4c5-7222-ba2e-7bfaeaf22f5c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
