@@ -1,0 +1,181 @@
+src/pages/rtf-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,386,440
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-csv.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,260,267,274,281,288,353,407
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-svg.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,384,438
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/n-up-pdf.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,469,523
+src/pages/pdf-to-zip.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,391,445
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/txt-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,546,600
+src/pages/tiff-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,405,459
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-bmp.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,369,423
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/add-attachments.html
+  s_668d14e017b206::t_61572f8f6cc4cc 351,358,365,372,379
+src/pages/pdf-layers.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/psd-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,384,438
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-pdfa.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,338,345,352,359,366,431,485
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/webp-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,412,466
+src/pages/mobi-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,387,441
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/odp-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,396,450
+src/pages/rasterize-pdf.html
+  s_668d14e017b206::t_882f5d55f11e33 14,35,51
+src/pages/extract-attachments.html
+  s_668d14e017b206::t_882f5d55f11e33 38
+  s_668d14e017b206::t_5f5511c80fade8 14
+src/pages/wpd-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+src/pages/bmp-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,381,435
+src/pages/csv-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,386,440
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/odt-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,387,441
+src/pages/ods-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,396,450
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-webp.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,400,454
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-greyscale.html
+  s_668d14e017b206::t_7a362ac4b82d79 10,34,54,68,371,425
+  s_668d14e017b206::t_61572f8f6cc4cc 278,285,292,299,306
+  s_668d14e017b206::t_b8e350abfcaa5a 14,38,57
+src/pages/cbz-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,388,442
+src/pages/heic-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,291,298,305,312,319,384,438
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/json-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,255,262,269,276,283,348,402
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/fb2-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,388,442
+src/pages/odg-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pages-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,395,449
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/excel-to-pdf.html
+  s_668d14e017b206::t_7a362ac4b82d79 299,306
+  s_668d14e017b206::t_61572f8f6cc4cc 313-314,321,328
+  s_668d14e017b206::t_a7ca3c56f3a9ce 300,307
+src/pages/word-to-pdf.html
+  s_668d14e017b206::t_7a362ac4b82d79 331,340
+  s_668d14e017b206::t_61572f8f6cc4cc 324-325,338,347-348,355
+  s_668d14e017b206::t_a7ca3c56f3a9ce 332
+src/pages/prepare-pdf-for-ai.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,34,54,68,413,467
+  s_668d14e017b206::t_5f5511c80fade8 14,38,57
+src/pages/xps-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,387,441
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/wps-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,393,447
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/linearize-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 312,319,326,333,340
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/crop-pdf.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/pdf-to-text.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_7a362ac4b82d79 10,31,48,62,412,466
+src/pages/pdf-multi-tool.html
+  s_668d14e017b206::t_7a362ac4b82d79 10,31
+  s_668d14e017b206::t_5f5511c80fade8 14,35,54
+src/pages/epub-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,389,443
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/flatten-pdf.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/compress-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 503,510,516-517
+src/pages/xml-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,383,437
+src/pages/sanitize-pdf.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/markdown-to-pdf.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,38,57
+  s_668d14e017b206::t_61572f8f6cc4cc 10,34,54,68,207,214,221,228,235,301,355
+src/pages/pdf-to-markdown.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,38,57
+  s_668d14e017b206::t_7a362ac4b82d79 10,34,54,68,395,449
+  s_668d14e017b206::t_61572f8f6cc4cc 302,309,316,323,330
+src/pages/pdf-to-docx.html
+  s_668d14e017b206::t_a7ca3c56f3a9ce 291,305
+  s_668d14e017b206::t_61572f8f6cc4cc 298,312
+  s_668d14e017b206::t_7a362ac4b82d79 290,297,304
+src/pages/repair-pdf.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/pub-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-tiff.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,458,512
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-booklet.html
+  s_668d14e017b206::t_5f5511c80fade8 14,35,51
+src/pages/pdf-to-png.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,400,454
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/vsd-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,394,448
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/pdf-to-json.html
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,243,250,257,264,271,336,390
+src/pages/svg-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,412,466
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+src/pages/image-to-pdf.html
+  s_668d14e017b206::t_61572f8f6cc4cc 10,31,48,62,318,325,332,339,346,411,465
+  s_668d14e017b206::t_b8e350abfcaa5a 14,35,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b75792e81c8f98e8fd3197830a4558813c119ebb",
+  "prompts": {},
+  "sessions": {
+    "s_668d14e017b206": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6947-526b-7701-ae74-55af07b63f0f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
