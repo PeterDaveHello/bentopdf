@@ -1,0 +1,68 @@
+src/js/config/tools.ts
+  s_c64f55c2041106::t_1d56bcf9b575a9 18
+  s_6b715d61079e12::t_3e700365df4a2a 43,540
+CONTRIBUTING.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 84
+chart/README.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 94
+terms.html
+  s_b8d0ece3d51efc::t_596e236ffaa8bb 176
+  s_b8d0ece3d51efc::t_f833b976c1f8e9 92,100,178
+  s_b8d0ece3d51efc::t_adc6e796908cc5 149
+  s_b8d0ece3d51efc::t_df1162f9c6d9ff 93
+about.html
+  s_c64f55c2041106::t_0938a28561f0b3 148,175,283
+pdf-security.html
+  s_b8d0ece3d51efc::t_adc6e796908cc5 234,238,253-254
+index.html
+  s_c64f55c2041106::t_9ec9d9ed42003b 783
+faq.html
+  s_c64f55c2041106::t_09b2bd888c3051 279
+docs/tools/view-metadata.md
+  s_c64f55c2041106::t_7bf725eaa8b8fa 30
+STATIC-HOSTING.md
+  s_b8d0ece3d51efc::t_f833b976c1f8e9 15
+  s_b8d0ece3d51efc::t_adc6e796908cc5 3,9,24,39,47,53,55
+cloudflare/wrangler.toml
+  s_b8d0ece3d51efc::t_adc6e796908cc5 6,45
+cloudflare/cors-proxy-worker.js
+  s_b8d0ece3d51efc::t_adc6e796908cc5 215
+src/js/logic/digital-sign-pdf.ts
+  s_c64f55c2041106::t_8348925e3217df 123
+README.md
+  s_b8d0ece3d51efc::t_adc6e796908cc5 9,134,146-170,335,687,809,821
+public/locales/en/tools.json
+  s_6b715d61079e12::t_ffe686143f4a7c 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "23e8d387fa4a92cbf0a0cbc861a5b55f7527efd4",
+  "prompts": {},
+  "sessions": {
+    "s_6b715d61079e12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f608c-be2b-7fa1-a5e8-07042adf72aa",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_b8d0ece3d51efc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f61ff-639f-7141-9b0d-675d6164be41",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_c64f55c2041106": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f609b-e4c5-7222-ba2e-7bfaeaf22f5c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
