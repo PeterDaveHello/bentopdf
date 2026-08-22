@@ -1,0 +1,26 @@
+public/pdfjs-annotation-viewer/web/locale/zh-TW/viewer.ftl
+  s_c3346d326f41c8::t_438427f10c6558 112-113,125-130,137-141,165,351
+  s_c3346d326f41c8::t_297c26b19040f7 179-180,190,196,202-203,354
+public/locales/zh-TW/tools.json
+  s_c3346d326f41c8::t_438427f10c6558 66,87,107,126,273
+  s_c3346d326f41c8::t_b9372764fcf78f 22-23,61,65,68-70,79-80,100,108,111,116,119-120,131-138,152-153,155-156,158-159,164,239,519-520,576,668
+public/pdfjs-viewer/locale/zh-TW/viewer.ftl
+  s_c3346d326f41c8::t_297c26b19040f7 189,195,201-202
+  s_c3346d326f41c8::t_438427f10c6558 384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "6893323eaf8ac244bf23cb9f58f5d5b98861b5dd",
+  "prompts": {},
+  "sessions": {
+    "s_c3346d326f41c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5686-d0c0-7830-b9de-303cf01cb25d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
